@@ -129,6 +129,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
       This is my site DungQuach
       24/03/2023
+      hé lô quơ
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
